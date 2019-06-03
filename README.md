@@ -1,7 +1,6 @@
-# tarea2y3
-Este es el codigo fuente para la tarea 2 y 3 de compiladores
 
+Tarea 2 y 3 - Compiladores 
 
-Integrantes
-- Pablo Barrios
-- Christian Cano
+Nombre: Christian Cano y Pablo Barrios
+
+Compilar: gcc lexer.c tabladeSimbolos.c parser.c -o lexer
